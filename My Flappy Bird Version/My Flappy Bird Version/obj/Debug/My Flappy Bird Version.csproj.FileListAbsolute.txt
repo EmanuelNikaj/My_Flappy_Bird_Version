@@ -1,0 +1,10 @@
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\bin\Debug\My Flappy Bird Version.exe.config
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\bin\Debug\My Flappy Bird Version.exe
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\bin\Debug\My Flappy Bird Version.pdb
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My Flappy Bird Version.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My_Flappy_Bird_Version.Form1.resources
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My_Flappy_Bird_Version.Properties.Resources.resources
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My Flappy Bird Version.csproj.GenerateResource.cache
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My Flappy Bird Version.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My Flappy Bird Version.exe
+C:\Users\emanu\source\repos\My Flappy Bird Version\My Flappy Bird Version\obj\Debug\My Flappy Bird Version.pdb
